@@ -40,10 +40,6 @@
   - Analyzing Trends from written customer feedback forms
   - Understanding text commands (Google - "Hey Google, play this song")
 
-### NLP basics
-
-nlp() function from Spacy:
-
-- automatically takes raw text and performs a series of operations to tag, parse and describe the text data
-  ![nlp function](images/nlp%20function.png)
-
+### NLP Basics
+Refer to 01-NLP-Python-Basics
+[label](../../../../../../C:/Users/commonuser/Desktop/GitHub/udemy-nlp-natural-language-processing-with-python/01-NLP-Python-Basics)
