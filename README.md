@@ -41,5 +41,5 @@
   - Understanding text commands (Google - "Hey Google, play this song")
 
 ### NLP Basics
-Refer to 01-NLP-Python-Basics
-[label](../../../../../../C:/Users/commonuser/Desktop/GitHub/udemy-nlp-natural-language-processing-with-python/01-NLP-Python-Basics)
+
+[Spacy Basics](../../../../../../C:/Users/commonuser/Desktop/GitHub/udemy-nlp-natural-language-processing-with-python/01-NLP-Python-Basics/00-Spacy-Basics.ipynb)
